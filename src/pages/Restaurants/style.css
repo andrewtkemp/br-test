@@ -1,0 +1,9 @@
+.header, .content{
+    padding: 12px;
+}
+.header{
+    background:#34B379;
+}
+.card .card-reveal{
+    padding: 0 !important
+}
